@@ -1,0 +1,83 @@
+.cont-Principal {
+
+     width: 50vw;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin: auto;
+
+}
+
+.Cont-secundario {
+     font-family: 'Poppins', sans-serif;
+     border: 3px solid #ccd5dc6e;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     margin: auto;
+     padding: 2em;
+
+
+}
+
+@media screen and (max-width: 400px) {
+
+     .cont-Principal {
+
+          width: 100vw;
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          margin: auto;
+
+     }
+
+     .Cont-secundario {
+          font-family: 'Poppins', sans-serif;
+          border: 3px solid #ccd5dc6e;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          margin: auto;
+          padding: 2em;
+
+
+     }
+
+
+}
+@media screen and (max-width: 840px) {
+
+     .cont-Principal {
+
+          width: 100vw;
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          margin: auto;
+
+     }
+
+     .Cont-secundario {
+          font-family: 'Poppins', sans-serif;
+          border: 3px solid #ccd5dc6e;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          flex-direction: column;
+          margin: auto;
+          padding: 2em;
+
+
+     }
+
+
+}

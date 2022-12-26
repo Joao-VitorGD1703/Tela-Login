@@ -1,0 +1,40 @@
+.botao {
+    width: 15vw;
+    height: 5vh;
+    text-align: center;
+    text-decoration: none;
+    color: #252525;
+    background-color: #e1edf6;
+    padding: auto;
+    border: 3px solid #08ac71;
+    margin: 1em auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.botao:hover {
+
+    cursor: pointer;
+    transition: 0.2s;
+    background-color: #08ac71;
+    color: #e1edf6;
+}
+
+
+@media screen and (max-width: 400px) {
+    .botao {
+    width: 40vw;
+    height: 5vh;
+    text-align: center;
+    text-decoration: none;
+    color: #252525;
+    background-color: #e1edf6;
+    padding: auto;
+    border: 3px solid #08ac71;
+    margin: 1em auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+}

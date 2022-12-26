@@ -1,0 +1,21 @@
+.mae{
+    display: flex;
+    
+}
+
+@media screen and (max-width: 400px){
+    .mae{
+    display: flex;
+    flex-direction: column;
+    
+}
+	
+}
+@media screen and (max-width: 840px){
+    .mae{
+    display: flex;
+    flex-direction: column;
+    
+}
+	
+}

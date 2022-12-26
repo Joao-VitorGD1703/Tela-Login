@@ -1,0 +1,90 @@
+.campos-text {
+    width: 20vw;
+    height: 5vh;
+    padding-left: 2em ;
+    border-radius: 2px;
+    border: 3px solid #08ac71;
+    /* background-color: #b2bcc2; */
+    background-color: #e1edf6;
+    margin: 1em auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.campos-text:focus {
+    
+    outline: #08ac71;
+    border: 3px solid #08ac71;
+    border-radius: 2px;
+}
+
+.campos-text::placeholder {
+
+    color: #252525;
+    font-size: 16px;
+   
+}
+
+@media screen and (max-width: 400px) {
+    .campos-text {
+    width: 50vw;
+    height: 5vh;
+    padding-left: 2em ;
+    border-radius: 2px;
+    border: 3px solid #08ac71;
+    /* background-color: #b2bcc2; */
+    background-color: #e1edf6;
+    margin: 1em auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.campos-text:focus {
+    
+    outline: #08ac71;
+    border: 3px solid #08ac71;
+    border-radius: 2px;
+}
+
+.campos-text::placeholder {
+
+    color: #252525;
+    font-size: 16px;
+   
+}
+
+
+}
+@media screen and (max-width: 840px) {
+    .campos-text {
+    width: 50vw;
+    height: 5vh;
+    padding-left: 2em ;
+    border-radius: 2px;
+    border: 3px solid #08ac71;
+    /* background-color: #b2bcc2; */
+    background-color: #e1edf6;
+    margin: 1em auto;
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.campos-text:focus {
+    
+    outline: #08ac71;
+    border: 3px solid #08ac71;
+    border-radius: 2px;
+}
+
+.campos-text::placeholder {
+
+    color: #252525;
+    font-size: 16px;
+   
+}
+
+
+}
